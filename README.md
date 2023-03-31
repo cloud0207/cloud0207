@@ -1,16 +1,31 @@
+
+[![*'s github stats](https://github-readme-stats.vercel.app/api?username=cloud0207)](https://github.com/cloud0207)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cloud0207)](https://github.com/cloud0207/github-readme-stats)
+
+![C](https://img.shields.io/badge/-C-123456?style=flat-square&logo=C&logoColor=black)
+![자바](https://img.shields.io/badge/-자바-007396?style=flat&logo=Java&logoColor=ffffff)
+
+# Hi there 👋
+## Hi there 👋
 ### Hi there 👋
+#### Hi there 👋
+##### Hi there 👋
 
-<!--
-**cloud0207/cloud0207** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+**두껍게** <br>
+*이탈릭* <br>
+~~취소선~~  <br>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+* 1번
+* 2번  <br>
+
+[네이버](http://naver.com)
+
+```
+print('안녕하세요')
+```
+
+:joy:
+
